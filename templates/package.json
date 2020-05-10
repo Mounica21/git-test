@@ -1,0 +1,22 @@
+{
+    "name": "lakshmi",
+    "version": "1.0.0",
+    "description": "This is a test directory to learn GIT and Node",
+    "main": "index.html",
+    "scripts": {
+        "start":"npm run lite",
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "lite":"lite-server"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Mounica21/git-test.git"
+    },
+    "author": "Mounica",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Mounica21/git-test/issues"
+    },
+    "homepage": "https://github.com/Mounica21/git-test#readme"
+  }
+  
